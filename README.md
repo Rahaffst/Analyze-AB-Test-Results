@@ -10,6 +10,7 @@ In this project, I will be working to understand the results of an A/B test run 
 - Probability
 - A/B Test
 - Regression
+- Conclusions
 
 
 ## Tools 
